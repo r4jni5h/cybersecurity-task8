@@ -25,7 +25,7 @@ Gain hands-on experience with using VPNs to protect online privacy and understan
   ![After VPN](vpnip.png)
 
 - **Windscribe VPN Interface (Connected):**  
-  ![VPN Interface](wsinterface.png)
+  ![VPN Interface](interface.png)
 
 ---
 
